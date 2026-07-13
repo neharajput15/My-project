@@ -1,0 +1,501 @@
+id,internship_role,branch,required_skills,interest,min_cgpa,mode,location
+1,AI Intern,Computer,Python;Machine Learning;Pandas,AI,6.0,Remote,Pune
+2,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,6.5,Hybrid,Mumbai
+3,Python Developer Intern,Electronics,Python;OOP,Software,7.0,Onsite,Bengaluru
+4,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,7.5,Remote,Hyderabad
+5,Java Developer Intern,Civil,Java;OOP,Software,8.0,Hybrid,Chennai
+6,Cyber Security Intern,Electrical,Linux;Networking,Security,8.5,Onsite,Delhi
+7,Cloud Intern,AI & DS,AWS;Linux,Cloud,9.0,Remote,Noida
+8,Android Developer Intern,ECE,Java;Kotlin,Mobile,6.0,Hybrid,Ahmedabad
+9,UI/UX Intern,Computer,Figma;Canva,Design,6.5,Onsite,Kolkata
+10,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,7.0,Remote,Nagpur
+11,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,7.5,Hybrid,Pune
+12,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,8.0,Onsite,Mumbai
+13,Python Developer Intern,Civil,Python;OOP,Software,8.5,Remote,Bengaluru
+14,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,9.0,Hybrid,Hyderabad
+15,Java Developer Intern,AI & DS,Java;OOP,Software,6.0,Onsite,Chennai
+16,Cyber Security Intern,ECE,Linux;Networking,Security,6.5,Remote,Delhi
+17,Cloud Intern,Computer,AWS;Linux,Cloud,7.0,Hybrid,Noida
+18,Android Developer Intern,IT,Java;Kotlin,Mobile,7.5,Onsite,Ahmedabad
+19,UI/UX Intern,Electronics,Figma;Canva,Design,8.0,Remote,Kolkata
+20,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,8.5,Hybrid,Nagpur
+21,AI Intern,Civil,Python;Machine Learning;Pandas,AI,9.0,Onsite,Pune
+22,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,6.0,Remote,Mumbai
+23,Python Developer Intern,AI & DS,Python;OOP,Software,6.5,Hybrid,Bengaluru
+24,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,7.0,Onsite,Hyderabad
+25,Java Developer Intern,Computer,Java;OOP,Software,7.5,Remote,Chennai
+26,Cyber Security Intern,IT,Linux;Networking,Security,8.0,Hybrid,Delhi
+27,Cloud Intern,Electronics,AWS;Linux,Cloud,8.5,Onsite,Noida
+28,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,9.0,Remote,Ahmedabad
+29,UI/UX Intern,Civil,Figma;Canva,Design,6.0,Hybrid,Kolkata
+30,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,6.5,Onsite,Nagpur
+31,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,7.0,Remote,Pune
+32,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,7.5,Hybrid,Mumbai
+33,Python Developer Intern,Computer,Python;OOP,Software,8.0,Onsite,Bengaluru
+34,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,8.5,Remote,Hyderabad
+35,Java Developer Intern,Electronics,Java;OOP,Software,9.0,Hybrid,Chennai
+36,Cyber Security Intern,Mechanical,Linux;Networking,Security,6.0,Onsite,Delhi
+37,Cloud Intern,Civil,AWS;Linux,Cloud,6.5,Remote,Noida
+38,Android Developer Intern,Electrical,Java;Kotlin,Mobile,7.0,Hybrid,Ahmedabad
+39,UI/UX Intern,AI & DS,Figma;Canva,Design,7.5,Onsite,Kolkata
+40,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,8.0,Remote,Nagpur
+41,AI Intern,Computer,Python;Machine Learning;Pandas,AI,8.5,Hybrid,Pune
+42,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,9.0,Onsite,Mumbai
+43,Python Developer Intern,Electronics,Python;OOP,Software,6.0,Remote,Bengaluru
+44,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,6.5,Hybrid,Hyderabad
+45,Java Developer Intern,Civil,Java;OOP,Software,7.0,Onsite,Chennai
+46,Cyber Security Intern,Electrical,Linux;Networking,Security,7.5,Remote,Delhi
+47,Cloud Intern,AI & DS,AWS;Linux,Cloud,8.0,Hybrid,Noida
+48,Android Developer Intern,ECE,Java;Kotlin,Mobile,8.5,Onsite,Ahmedabad
+49,UI/UX Intern,Computer,Figma;Canva,Design,9.0,Remote,Kolkata
+50,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,6.0,Hybrid,Nagpur
+51,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,6.5,Onsite,Pune
+52,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,7.0,Remote,Mumbai
+53,Python Developer Intern,Civil,Python;OOP,Software,7.5,Hybrid,Bengaluru
+54,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,8.0,Onsite,Hyderabad
+55,Java Developer Intern,AI & DS,Java;OOP,Software,8.5,Remote,Chennai
+56,Cyber Security Intern,ECE,Linux;Networking,Security,9.0,Hybrid,Delhi
+57,Cloud Intern,Computer,AWS;Linux,Cloud,6.0,Onsite,Noida
+58,Android Developer Intern,IT,Java;Kotlin,Mobile,6.5,Remote,Ahmedabad
+59,UI/UX Intern,Electronics,Figma;Canva,Design,7.0,Hybrid,Kolkata
+60,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,7.5,Onsite,Nagpur
+61,AI Intern,Civil,Python;Machine Learning;Pandas,AI,8.0,Remote,Pune
+62,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,8.5,Hybrid,Mumbai
+63,Python Developer Intern,AI & DS,Python;OOP,Software,9.0,Onsite,Bengaluru
+64,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,6.0,Remote,Hyderabad
+65,Java Developer Intern,Computer,Java;OOP,Software,6.5,Hybrid,Chennai
+66,Cyber Security Intern,IT,Linux;Networking,Security,7.0,Onsite,Delhi
+67,Cloud Intern,Electronics,AWS;Linux,Cloud,7.5,Remote,Noida
+68,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,8.0,Hybrid,Ahmedabad
+69,UI/UX Intern,Civil,Figma;Canva,Design,8.5,Onsite,Kolkata
+70,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,9.0,Remote,Nagpur
+71,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,6.0,Hybrid,Pune
+72,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,6.5,Onsite,Mumbai
+73,Python Developer Intern,Computer,Python;OOP,Software,7.0,Remote,Bengaluru
+74,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,7.5,Hybrid,Hyderabad
+75,Java Developer Intern,Electronics,Java;OOP,Software,8.0,Onsite,Chennai
+76,Cyber Security Intern,Mechanical,Linux;Networking,Security,8.5,Remote,Delhi
+77,Cloud Intern,Civil,AWS;Linux,Cloud,9.0,Hybrid,Noida
+78,Android Developer Intern,Electrical,Java;Kotlin,Mobile,6.0,Onsite,Ahmedabad
+79,UI/UX Intern,AI & DS,Figma;Canva,Design,6.5,Remote,Kolkata
+80,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,7.0,Hybrid,Nagpur
+81,AI Intern,Computer,Python;Machine Learning;Pandas,AI,7.5,Onsite,Pune
+82,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,8.0,Remote,Mumbai
+83,Python Developer Intern,Electronics,Python;OOP,Software,8.5,Hybrid,Bengaluru
+84,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,9.0,Onsite,Hyderabad
+85,Java Developer Intern,Civil,Java;OOP,Software,6.0,Remote,Chennai
+86,Cyber Security Intern,Electrical,Linux;Networking,Security,6.5,Hybrid,Delhi
+87,Cloud Intern,AI & DS,AWS;Linux,Cloud,7.0,Onsite,Noida
+88,Android Developer Intern,ECE,Java;Kotlin,Mobile,7.5,Remote,Ahmedabad
+89,UI/UX Intern,Computer,Figma;Canva,Design,8.0,Hybrid,Kolkata
+90,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,8.5,Onsite,Nagpur
+91,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,9.0,Remote,Pune
+92,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,6.0,Hybrid,Mumbai
+93,Python Developer Intern,Civil,Python;OOP,Software,6.5,Onsite,Bengaluru
+94,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,7.0,Remote,Hyderabad
+95,Java Developer Intern,AI & DS,Java;OOP,Software,7.5,Hybrid,Chennai
+96,Cyber Security Intern,ECE,Linux;Networking,Security,8.0,Onsite,Delhi
+97,Cloud Intern,Computer,AWS;Linux,Cloud,8.5,Remote,Noida
+98,Android Developer Intern,IT,Java;Kotlin,Mobile,9.0,Hybrid,Ahmedabad
+99,UI/UX Intern,Electronics,Figma;Canva,Design,6.0,Onsite,Kolkata
+100,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,6.5,Remote,Nagpur
+101,AI Intern,Civil,Python;Machine Learning;Pandas,AI,7.0,Hybrid,Pune
+102,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,7.5,Onsite,Mumbai
+103,Python Developer Intern,AI & DS,Python;OOP,Software,8.0,Remote,Bengaluru
+104,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,8.5,Hybrid,Hyderabad
+105,Java Developer Intern,Computer,Java;OOP,Software,9.0,Onsite,Chennai
+106,Cyber Security Intern,IT,Linux;Networking,Security,6.0,Remote,Delhi
+107,Cloud Intern,Electronics,AWS;Linux,Cloud,6.5,Hybrid,Noida
+108,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,7.0,Onsite,Ahmedabad
+109,UI/UX Intern,Civil,Figma;Canva,Design,7.5,Remote,Kolkata
+110,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,8.0,Hybrid,Nagpur
+111,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,8.5,Onsite,Pune
+112,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,9.0,Remote,Mumbai
+113,Python Developer Intern,Computer,Python;OOP,Software,6.0,Hybrid,Bengaluru
+114,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,6.5,Onsite,Hyderabad
+115,Java Developer Intern,Electronics,Java;OOP,Software,7.0,Remote,Chennai
+116,Cyber Security Intern,Mechanical,Linux;Networking,Security,7.5,Hybrid,Delhi
+117,Cloud Intern,Civil,AWS;Linux,Cloud,8.0,Onsite,Noida
+118,Android Developer Intern,Electrical,Java;Kotlin,Mobile,8.5,Remote,Ahmedabad
+119,UI/UX Intern,AI & DS,Figma;Canva,Design,9.0,Hybrid,Kolkata
+120,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,6.0,Onsite,Nagpur
+121,AI Intern,Computer,Python;Machine Learning;Pandas,AI,6.5,Remote,Pune
+122,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,7.0,Hybrid,Mumbai
+123,Python Developer Intern,Electronics,Python;OOP,Software,7.5,Onsite,Bengaluru
+124,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,8.0,Remote,Hyderabad
+125,Java Developer Intern,Civil,Java;OOP,Software,8.5,Hybrid,Chennai
+126,Cyber Security Intern,Electrical,Linux;Networking,Security,9.0,Onsite,Delhi
+127,Cloud Intern,AI & DS,AWS;Linux,Cloud,6.0,Remote,Noida
+128,Android Developer Intern,ECE,Java;Kotlin,Mobile,6.5,Hybrid,Ahmedabad
+129,UI/UX Intern,Computer,Figma;Canva,Design,7.0,Onsite,Kolkata
+130,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,7.5,Remote,Nagpur
+131,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,8.0,Hybrid,Pune
+132,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,8.5,Onsite,Mumbai
+133,Python Developer Intern,Civil,Python;OOP,Software,9.0,Remote,Bengaluru
+134,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,6.0,Hybrid,Hyderabad
+135,Java Developer Intern,AI & DS,Java;OOP,Software,6.5,Onsite,Chennai
+136,Cyber Security Intern,ECE,Linux;Networking,Security,7.0,Remote,Delhi
+137,Cloud Intern,Computer,AWS;Linux,Cloud,7.5,Hybrid,Noida
+138,Android Developer Intern,IT,Java;Kotlin,Mobile,8.0,Onsite,Ahmedabad
+139,UI/UX Intern,Electronics,Figma;Canva,Design,8.5,Remote,Kolkata
+140,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,9.0,Hybrid,Nagpur
+141,AI Intern,Civil,Python;Machine Learning;Pandas,AI,6.0,Onsite,Pune
+142,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,6.5,Remote,Mumbai
+143,Python Developer Intern,AI & DS,Python;OOP,Software,7.0,Hybrid,Bengaluru
+144,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,7.5,Onsite,Hyderabad
+145,Java Developer Intern,Computer,Java;OOP,Software,8.0,Remote,Chennai
+146,Cyber Security Intern,IT,Linux;Networking,Security,8.5,Hybrid,Delhi
+147,Cloud Intern,Electronics,AWS;Linux,Cloud,9.0,Onsite,Noida
+148,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,6.0,Remote,Ahmedabad
+149,UI/UX Intern,Civil,Figma;Canva,Design,6.5,Hybrid,Kolkata
+150,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,7.0,Onsite,Nagpur
+151,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,7.5,Remote,Pune
+152,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,8.0,Hybrid,Mumbai
+153,Python Developer Intern,Computer,Python;OOP,Software,8.5,Onsite,Bengaluru
+154,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,9.0,Remote,Hyderabad
+155,Java Developer Intern,Electronics,Java;OOP,Software,6.0,Hybrid,Chennai
+156,Cyber Security Intern,Mechanical,Linux;Networking,Security,6.5,Onsite,Delhi
+157,Cloud Intern,Civil,AWS;Linux,Cloud,7.0,Remote,Noida
+158,Android Developer Intern,Electrical,Java;Kotlin,Mobile,7.5,Hybrid,Ahmedabad
+159,UI/UX Intern,AI & DS,Figma;Canva,Design,8.0,Onsite,Kolkata
+160,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,8.5,Remote,Nagpur
+161,AI Intern,Computer,Python;Machine Learning;Pandas,AI,9.0,Hybrid,Pune
+162,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,6.0,Onsite,Mumbai
+163,Python Developer Intern,Electronics,Python;OOP,Software,6.5,Remote,Bengaluru
+164,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,7.0,Hybrid,Hyderabad
+165,Java Developer Intern,Civil,Java;OOP,Software,7.5,Onsite,Chennai
+166,Cyber Security Intern,Electrical,Linux;Networking,Security,8.0,Remote,Delhi
+167,Cloud Intern,AI & DS,AWS;Linux,Cloud,8.5,Hybrid,Noida
+168,Android Developer Intern,ECE,Java;Kotlin,Mobile,9.0,Onsite,Ahmedabad
+169,UI/UX Intern,Computer,Figma;Canva,Design,6.0,Remote,Kolkata
+170,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,6.5,Hybrid,Nagpur
+171,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,7.0,Onsite,Pune
+172,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,7.5,Remote,Mumbai
+173,Python Developer Intern,Civil,Python;OOP,Software,8.0,Hybrid,Bengaluru
+174,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,8.5,Onsite,Hyderabad
+175,Java Developer Intern,AI & DS,Java;OOP,Software,9.0,Remote,Chennai
+176,Cyber Security Intern,ECE,Linux;Networking,Security,6.0,Hybrid,Delhi
+177,Cloud Intern,Computer,AWS;Linux,Cloud,6.5,Onsite,Noida
+178,Android Developer Intern,IT,Java;Kotlin,Mobile,7.0,Remote,Ahmedabad
+179,UI/UX Intern,Electronics,Figma;Canva,Design,7.5,Hybrid,Kolkata
+180,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,8.0,Onsite,Nagpur
+181,AI Intern,Civil,Python;Machine Learning;Pandas,AI,8.5,Remote,Pune
+182,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,9.0,Hybrid,Mumbai
+183,Python Developer Intern,AI & DS,Python;OOP,Software,6.0,Onsite,Bengaluru
+184,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,6.5,Remote,Hyderabad
+185,Java Developer Intern,Computer,Java;OOP,Software,7.0,Hybrid,Chennai
+186,Cyber Security Intern,IT,Linux;Networking,Security,7.5,Onsite,Delhi
+187,Cloud Intern,Electronics,AWS;Linux,Cloud,8.0,Remote,Noida
+188,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,8.5,Hybrid,Ahmedabad
+189,UI/UX Intern,Civil,Figma;Canva,Design,9.0,Onsite,Kolkata
+190,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,6.0,Remote,Nagpur
+191,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,6.5,Hybrid,Pune
+192,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,7.0,Onsite,Mumbai
+193,Python Developer Intern,Computer,Python;OOP,Software,7.5,Remote,Bengaluru
+194,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,8.0,Hybrid,Hyderabad
+195,Java Developer Intern,Electronics,Java;OOP,Software,8.5,Onsite,Chennai
+196,Cyber Security Intern,Mechanical,Linux;Networking,Security,9.0,Remote,Delhi
+197,Cloud Intern,Civil,AWS;Linux,Cloud,6.0,Hybrid,Noida
+198,Android Developer Intern,Electrical,Java;Kotlin,Mobile,6.5,Onsite,Ahmedabad
+199,UI/UX Intern,AI & DS,Figma;Canva,Design,7.0,Remote,Kolkata
+200,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,7.5,Hybrid,Nagpur
+201,AI Intern,Computer,Python;Machine Learning;Pandas,AI,8.0,Onsite,Pune
+202,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,8.5,Remote,Mumbai
+203,Python Developer Intern,Electronics,Python;OOP,Software,9.0,Hybrid,Bengaluru
+204,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,6.0,Onsite,Hyderabad
+205,Java Developer Intern,Civil,Java;OOP,Software,6.5,Remote,Chennai
+206,Cyber Security Intern,Electrical,Linux;Networking,Security,7.0,Hybrid,Delhi
+207,Cloud Intern,AI & DS,AWS;Linux,Cloud,7.5,Onsite,Noida
+208,Android Developer Intern,ECE,Java;Kotlin,Mobile,8.0,Remote,Ahmedabad
+209,UI/UX Intern,Computer,Figma;Canva,Design,8.5,Hybrid,Kolkata
+210,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,9.0,Onsite,Nagpur
+211,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,6.0,Remote,Pune
+212,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,6.5,Hybrid,Mumbai
+213,Python Developer Intern,Civil,Python;OOP,Software,7.0,Onsite,Bengaluru
+214,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,7.5,Remote,Hyderabad
+215,Java Developer Intern,AI & DS,Java;OOP,Software,8.0,Hybrid,Chennai
+216,Cyber Security Intern,ECE,Linux;Networking,Security,8.5,Onsite,Delhi
+217,Cloud Intern,Computer,AWS;Linux,Cloud,9.0,Remote,Noida
+218,Android Developer Intern,IT,Java;Kotlin,Mobile,6.0,Hybrid,Ahmedabad
+219,UI/UX Intern,Electronics,Figma;Canva,Design,6.5,Onsite,Kolkata
+220,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,7.0,Remote,Nagpur
+221,AI Intern,Civil,Python;Machine Learning;Pandas,AI,7.5,Hybrid,Pune
+222,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,8.0,Onsite,Mumbai
+223,Python Developer Intern,AI & DS,Python;OOP,Software,8.5,Remote,Bengaluru
+224,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,9.0,Hybrid,Hyderabad
+225,Java Developer Intern,Computer,Java;OOP,Software,6.0,Onsite,Chennai
+226,Cyber Security Intern,IT,Linux;Networking,Security,6.5,Remote,Delhi
+227,Cloud Intern,Electronics,AWS;Linux,Cloud,7.0,Hybrid,Noida
+228,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,7.5,Onsite,Ahmedabad
+229,UI/UX Intern,Civil,Figma;Canva,Design,8.0,Remote,Kolkata
+230,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,8.5,Hybrid,Nagpur
+231,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,9.0,Onsite,Pune
+232,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,6.0,Remote,Mumbai
+233,Python Developer Intern,Computer,Python;OOP,Software,6.5,Hybrid,Bengaluru
+234,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,7.0,Onsite,Hyderabad
+235,Java Developer Intern,Electronics,Java;OOP,Software,7.5,Remote,Chennai
+236,Cyber Security Intern,Mechanical,Linux;Networking,Security,8.0,Hybrid,Delhi
+237,Cloud Intern,Civil,AWS;Linux,Cloud,8.5,Onsite,Noida
+238,Android Developer Intern,Electrical,Java;Kotlin,Mobile,9.0,Remote,Ahmedabad
+239,UI/UX Intern,AI & DS,Figma;Canva,Design,6.0,Hybrid,Kolkata
+240,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,6.5,Onsite,Nagpur
+241,AI Intern,Computer,Python;Machine Learning;Pandas,AI,7.0,Remote,Pune
+242,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,7.5,Hybrid,Mumbai
+243,Python Developer Intern,Electronics,Python;OOP,Software,8.0,Onsite,Bengaluru
+244,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,8.5,Remote,Hyderabad
+245,Java Developer Intern,Civil,Java;OOP,Software,9.0,Hybrid,Chennai
+246,Cyber Security Intern,Electrical,Linux;Networking,Security,6.0,Onsite,Delhi
+247,Cloud Intern,AI & DS,AWS;Linux,Cloud,6.5,Remote,Noida
+248,Android Developer Intern,ECE,Java;Kotlin,Mobile,7.0,Hybrid,Ahmedabad
+249,UI/UX Intern,Computer,Figma;Canva,Design,7.5,Onsite,Kolkata
+250,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,8.0,Remote,Nagpur
+251,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,8.5,Hybrid,Pune
+252,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,9.0,Onsite,Mumbai
+253,Python Developer Intern,Civil,Python;OOP,Software,6.0,Remote,Bengaluru
+254,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,6.5,Hybrid,Hyderabad
+255,Java Developer Intern,AI & DS,Java;OOP,Software,7.0,Onsite,Chennai
+256,Cyber Security Intern,ECE,Linux;Networking,Security,7.5,Remote,Delhi
+257,Cloud Intern,Computer,AWS;Linux,Cloud,8.0,Hybrid,Noida
+258,Android Developer Intern,IT,Java;Kotlin,Mobile,8.5,Onsite,Ahmedabad
+259,UI/UX Intern,Electronics,Figma;Canva,Design,9.0,Remote,Kolkata
+260,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,6.0,Hybrid,Nagpur
+261,AI Intern,Civil,Python;Machine Learning;Pandas,AI,6.5,Onsite,Pune
+262,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,7.0,Remote,Mumbai
+263,Python Developer Intern,AI & DS,Python;OOP,Software,7.5,Hybrid,Bengaluru
+264,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,8.0,Onsite,Hyderabad
+265,Java Developer Intern,Computer,Java;OOP,Software,8.5,Remote,Chennai
+266,Cyber Security Intern,IT,Linux;Networking,Security,9.0,Hybrid,Delhi
+267,Cloud Intern,Electronics,AWS;Linux,Cloud,6.0,Onsite,Noida
+268,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,6.5,Remote,Ahmedabad
+269,UI/UX Intern,Civil,Figma;Canva,Design,7.0,Hybrid,Kolkata
+270,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,7.5,Onsite,Nagpur
+271,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,8.0,Remote,Pune
+272,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,8.5,Hybrid,Mumbai
+273,Python Developer Intern,Computer,Python;OOP,Software,9.0,Onsite,Bengaluru
+274,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,6.0,Remote,Hyderabad
+275,Java Developer Intern,Electronics,Java;OOP,Software,6.5,Hybrid,Chennai
+276,Cyber Security Intern,Mechanical,Linux;Networking,Security,7.0,Onsite,Delhi
+277,Cloud Intern,Civil,AWS;Linux,Cloud,7.5,Remote,Noida
+278,Android Developer Intern,Electrical,Java;Kotlin,Mobile,8.0,Hybrid,Ahmedabad
+279,UI/UX Intern,AI & DS,Figma;Canva,Design,8.5,Onsite,Kolkata
+280,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,9.0,Remote,Nagpur
+281,AI Intern,Computer,Python;Machine Learning;Pandas,AI,6.0,Hybrid,Pune
+282,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,6.5,Onsite,Mumbai
+283,Python Developer Intern,Electronics,Python;OOP,Software,7.0,Remote,Bengaluru
+284,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,7.5,Hybrid,Hyderabad
+285,Java Developer Intern,Civil,Java;OOP,Software,8.0,Onsite,Chennai
+286,Cyber Security Intern,Electrical,Linux;Networking,Security,8.5,Remote,Delhi
+287,Cloud Intern,AI & DS,AWS;Linux,Cloud,9.0,Hybrid,Noida
+288,Android Developer Intern,ECE,Java;Kotlin,Mobile,6.0,Onsite,Ahmedabad
+289,UI/UX Intern,Computer,Figma;Canva,Design,6.5,Remote,Kolkata
+290,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,7.0,Hybrid,Nagpur
+291,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,7.5,Onsite,Pune
+292,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,8.0,Remote,Mumbai
+293,Python Developer Intern,Civil,Python;OOP,Software,8.5,Hybrid,Bengaluru
+294,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,9.0,Onsite,Hyderabad
+295,Java Developer Intern,AI & DS,Java;OOP,Software,6.0,Remote,Chennai
+296,Cyber Security Intern,ECE,Linux;Networking,Security,6.5,Hybrid,Delhi
+297,Cloud Intern,Computer,AWS;Linux,Cloud,7.0,Onsite,Noida
+298,Android Developer Intern,IT,Java;Kotlin,Mobile,7.5,Remote,Ahmedabad
+299,UI/UX Intern,Electronics,Figma;Canva,Design,8.0,Hybrid,Kolkata
+300,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,8.5,Onsite,Nagpur
+301,AI Intern,Civil,Python;Machine Learning;Pandas,AI,9.0,Remote,Pune
+302,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,6.0,Hybrid,Mumbai
+303,Python Developer Intern,AI & DS,Python;OOP,Software,6.5,Onsite,Bengaluru
+304,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,7.0,Remote,Hyderabad
+305,Java Developer Intern,Computer,Java;OOP,Software,7.5,Hybrid,Chennai
+306,Cyber Security Intern,IT,Linux;Networking,Security,8.0,Onsite,Delhi
+307,Cloud Intern,Electronics,AWS;Linux,Cloud,8.5,Remote,Noida
+308,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,9.0,Hybrid,Ahmedabad
+309,UI/UX Intern,Civil,Figma;Canva,Design,6.0,Onsite,Kolkata
+310,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,6.5,Remote,Nagpur
+311,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,7.0,Hybrid,Pune
+312,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,7.5,Onsite,Mumbai
+313,Python Developer Intern,Computer,Python;OOP,Software,8.0,Remote,Bengaluru
+314,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,8.5,Hybrid,Hyderabad
+315,Java Developer Intern,Electronics,Java;OOP,Software,9.0,Onsite,Chennai
+316,Cyber Security Intern,Mechanical,Linux;Networking,Security,6.0,Remote,Delhi
+317,Cloud Intern,Civil,AWS;Linux,Cloud,6.5,Hybrid,Noida
+318,Android Developer Intern,Electrical,Java;Kotlin,Mobile,7.0,Onsite,Ahmedabad
+319,UI/UX Intern,AI & DS,Figma;Canva,Design,7.5,Remote,Kolkata
+320,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,8.0,Hybrid,Nagpur
+321,AI Intern,Computer,Python;Machine Learning;Pandas,AI,8.5,Onsite,Pune
+322,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,9.0,Remote,Mumbai
+323,Python Developer Intern,Electronics,Python;OOP,Software,6.0,Hybrid,Bengaluru
+324,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,6.5,Onsite,Hyderabad
+325,Java Developer Intern,Civil,Java;OOP,Software,7.0,Remote,Chennai
+326,Cyber Security Intern,Electrical,Linux;Networking,Security,7.5,Hybrid,Delhi
+327,Cloud Intern,AI & DS,AWS;Linux,Cloud,8.0,Onsite,Noida
+328,Android Developer Intern,ECE,Java;Kotlin,Mobile,8.5,Remote,Ahmedabad
+329,UI/UX Intern,Computer,Figma;Canva,Design,9.0,Hybrid,Kolkata
+330,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,6.0,Onsite,Nagpur
+331,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,6.5,Remote,Pune
+332,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,7.0,Hybrid,Mumbai
+333,Python Developer Intern,Civil,Python;OOP,Software,7.5,Onsite,Bengaluru
+334,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,8.0,Remote,Hyderabad
+335,Java Developer Intern,AI & DS,Java;OOP,Software,8.5,Hybrid,Chennai
+336,Cyber Security Intern,ECE,Linux;Networking,Security,9.0,Onsite,Delhi
+337,Cloud Intern,Computer,AWS;Linux,Cloud,6.0,Remote,Noida
+338,Android Developer Intern,IT,Java;Kotlin,Mobile,6.5,Hybrid,Ahmedabad
+339,UI/UX Intern,Electronics,Figma;Canva,Design,7.0,Onsite,Kolkata
+340,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,7.5,Remote,Nagpur
+341,AI Intern,Civil,Python;Machine Learning;Pandas,AI,8.0,Hybrid,Pune
+342,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,8.5,Onsite,Mumbai
+343,Python Developer Intern,AI & DS,Python;OOP,Software,9.0,Remote,Bengaluru
+344,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,6.0,Hybrid,Hyderabad
+345,Java Developer Intern,Computer,Java;OOP,Software,6.5,Onsite,Chennai
+346,Cyber Security Intern,IT,Linux;Networking,Security,7.0,Remote,Delhi
+347,Cloud Intern,Electronics,AWS;Linux,Cloud,7.5,Hybrid,Noida
+348,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,8.0,Onsite,Ahmedabad
+349,UI/UX Intern,Civil,Figma;Canva,Design,8.5,Remote,Kolkata
+350,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,9.0,Hybrid,Nagpur
+351,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,6.0,Onsite,Pune
+352,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,6.5,Remote,Mumbai
+353,Python Developer Intern,Computer,Python;OOP,Software,7.0,Hybrid,Bengaluru
+354,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,7.5,Onsite,Hyderabad
+355,Java Developer Intern,Electronics,Java;OOP,Software,8.0,Remote,Chennai
+356,Cyber Security Intern,Mechanical,Linux;Networking,Security,8.5,Hybrid,Delhi
+357,Cloud Intern,Civil,AWS;Linux,Cloud,9.0,Onsite,Noida
+358,Android Developer Intern,Electrical,Java;Kotlin,Mobile,6.0,Remote,Ahmedabad
+359,UI/UX Intern,AI & DS,Figma;Canva,Design,6.5,Hybrid,Kolkata
+360,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,7.0,Onsite,Nagpur
+361,AI Intern,Computer,Python;Machine Learning;Pandas,AI,7.5,Remote,Pune
+362,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,8.0,Hybrid,Mumbai
+363,Python Developer Intern,Electronics,Python;OOP,Software,8.5,Onsite,Bengaluru
+364,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,9.0,Remote,Hyderabad
+365,Java Developer Intern,Civil,Java;OOP,Software,6.0,Hybrid,Chennai
+366,Cyber Security Intern,Electrical,Linux;Networking,Security,6.5,Onsite,Delhi
+367,Cloud Intern,AI & DS,AWS;Linux,Cloud,7.0,Remote,Noida
+368,Android Developer Intern,ECE,Java;Kotlin,Mobile,7.5,Hybrid,Ahmedabad
+369,UI/UX Intern,Computer,Figma;Canva,Design,8.0,Onsite,Kolkata
+370,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,8.5,Remote,Nagpur
+371,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,9.0,Hybrid,Pune
+372,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,6.0,Onsite,Mumbai
+373,Python Developer Intern,Civil,Python;OOP,Software,6.5,Remote,Bengaluru
+374,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,7.0,Hybrid,Hyderabad
+375,Java Developer Intern,AI & DS,Java;OOP,Software,7.5,Onsite,Chennai
+376,Cyber Security Intern,ECE,Linux;Networking,Security,8.0,Remote,Delhi
+377,Cloud Intern,Computer,AWS;Linux,Cloud,8.5,Hybrid,Noida
+378,Android Developer Intern,IT,Java;Kotlin,Mobile,9.0,Onsite,Ahmedabad
+379,UI/UX Intern,Electronics,Figma;Canva,Design,6.0,Remote,Kolkata
+380,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,6.5,Hybrid,Nagpur
+381,AI Intern,Civil,Python;Machine Learning;Pandas,AI,7.0,Onsite,Pune
+382,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,7.5,Remote,Mumbai
+383,Python Developer Intern,AI & DS,Python;OOP,Software,8.0,Hybrid,Bengaluru
+384,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,8.5,Onsite,Hyderabad
+385,Java Developer Intern,Computer,Java;OOP,Software,9.0,Remote,Chennai
+386,Cyber Security Intern,IT,Linux;Networking,Security,6.0,Hybrid,Delhi
+387,Cloud Intern,Electronics,AWS;Linux,Cloud,6.5,Onsite,Noida
+388,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,7.0,Remote,Ahmedabad
+389,UI/UX Intern,Civil,Figma;Canva,Design,7.5,Hybrid,Kolkata
+390,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,8.0,Onsite,Nagpur
+391,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,8.5,Remote,Pune
+392,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,9.0,Hybrid,Mumbai
+393,Python Developer Intern,Computer,Python;OOP,Software,6.0,Onsite,Bengaluru
+394,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,6.5,Remote,Hyderabad
+395,Java Developer Intern,Electronics,Java;OOP,Software,7.0,Hybrid,Chennai
+396,Cyber Security Intern,Mechanical,Linux;Networking,Security,7.5,Onsite,Delhi
+397,Cloud Intern,Civil,AWS;Linux,Cloud,8.0,Remote,Noida
+398,Android Developer Intern,Electrical,Java;Kotlin,Mobile,8.5,Hybrid,Ahmedabad
+399,UI/UX Intern,AI & DS,Figma;Canva,Design,9.0,Onsite,Kolkata
+400,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,6.0,Remote,Nagpur
+401,AI Intern,Computer,Python;Machine Learning;Pandas,AI,6.5,Hybrid,Pune
+402,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,7.0,Onsite,Mumbai
+403,Python Developer Intern,Electronics,Python;OOP,Software,7.5,Remote,Bengaluru
+404,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,8.0,Hybrid,Hyderabad
+405,Java Developer Intern,Civil,Java;OOP,Software,8.5,Onsite,Chennai
+406,Cyber Security Intern,Electrical,Linux;Networking,Security,9.0,Remote,Delhi
+407,Cloud Intern,AI & DS,AWS;Linux,Cloud,6.0,Hybrid,Noida
+408,Android Developer Intern,ECE,Java;Kotlin,Mobile,6.5,Onsite,Ahmedabad
+409,UI/UX Intern,Computer,Figma;Canva,Design,7.0,Remote,Kolkata
+410,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,7.5,Hybrid,Nagpur
+411,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,8.0,Onsite,Pune
+412,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,8.5,Remote,Mumbai
+413,Python Developer Intern,Civil,Python;OOP,Software,9.0,Hybrid,Bengaluru
+414,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,6.0,Onsite,Hyderabad
+415,Java Developer Intern,AI & DS,Java;OOP,Software,6.5,Remote,Chennai
+416,Cyber Security Intern,ECE,Linux;Networking,Security,7.0,Hybrid,Delhi
+417,Cloud Intern,Computer,AWS;Linux,Cloud,7.5,Onsite,Noida
+418,Android Developer Intern,IT,Java;Kotlin,Mobile,8.0,Remote,Ahmedabad
+419,UI/UX Intern,Electronics,Figma;Canva,Design,8.5,Hybrid,Kolkata
+420,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,9.0,Onsite,Nagpur
+421,AI Intern,Civil,Python;Machine Learning;Pandas,AI,6.0,Remote,Pune
+422,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,6.5,Hybrid,Mumbai
+423,Python Developer Intern,AI & DS,Python;OOP,Software,7.0,Onsite,Bengaluru
+424,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,7.5,Remote,Hyderabad
+425,Java Developer Intern,Computer,Java;OOP,Software,8.0,Hybrid,Chennai
+426,Cyber Security Intern,IT,Linux;Networking,Security,8.5,Onsite,Delhi
+427,Cloud Intern,Electronics,AWS;Linux,Cloud,9.0,Remote,Noida
+428,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,6.0,Hybrid,Ahmedabad
+429,UI/UX Intern,Civil,Figma;Canva,Design,6.5,Onsite,Kolkata
+430,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,7.0,Remote,Nagpur
+431,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,7.5,Hybrid,Pune
+432,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,8.0,Onsite,Mumbai
+433,Python Developer Intern,Computer,Python;OOP,Software,8.5,Remote,Bengaluru
+434,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,9.0,Hybrid,Hyderabad
+435,Java Developer Intern,Electronics,Java;OOP,Software,6.0,Onsite,Chennai
+436,Cyber Security Intern,Mechanical,Linux;Networking,Security,6.5,Remote,Delhi
+437,Cloud Intern,Civil,AWS;Linux,Cloud,7.0,Hybrid,Noida
+438,Android Developer Intern,Electrical,Java;Kotlin,Mobile,7.5,Onsite,Ahmedabad
+439,UI/UX Intern,AI & DS,Figma;Canva,Design,8.0,Remote,Kolkata
+440,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,8.5,Hybrid,Nagpur
+441,AI Intern,Computer,Python;Machine Learning;Pandas,AI,9.0,Onsite,Pune
+442,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,6.0,Remote,Mumbai
+443,Python Developer Intern,Electronics,Python;OOP,Software,6.5,Hybrid,Bengaluru
+444,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,7.0,Onsite,Hyderabad
+445,Java Developer Intern,Civil,Java;OOP,Software,7.5,Remote,Chennai
+446,Cyber Security Intern,Electrical,Linux;Networking,Security,8.0,Hybrid,Delhi
+447,Cloud Intern,AI & DS,AWS;Linux,Cloud,8.5,Onsite,Noida
+448,Android Developer Intern,ECE,Java;Kotlin,Mobile,9.0,Remote,Ahmedabad
+449,UI/UX Intern,Computer,Figma;Canva,Design,6.0,Hybrid,Kolkata
+450,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,6.5,Onsite,Nagpur
+451,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,7.0,Remote,Pune
+452,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,7.5,Hybrid,Mumbai
+453,Python Developer Intern,Civil,Python;OOP,Software,8.0,Onsite,Bengaluru
+454,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,8.5,Remote,Hyderabad
+455,Java Developer Intern,AI & DS,Java;OOP,Software,9.0,Hybrid,Chennai
+456,Cyber Security Intern,ECE,Linux;Networking,Security,6.0,Onsite,Delhi
+457,Cloud Intern,Computer,AWS;Linux,Cloud,6.5,Remote,Noida
+458,Android Developer Intern,IT,Java;Kotlin,Mobile,7.0,Hybrid,Ahmedabad
+459,UI/UX Intern,Electronics,Figma;Canva,Design,7.5,Onsite,Kolkata
+460,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,8.0,Remote,Nagpur
+461,AI Intern,Civil,Python;Machine Learning;Pandas,AI,8.5,Hybrid,Pune
+462,Data Analyst Intern,Electrical,Python;SQL;Excel,Analytics,9.0,Onsite,Mumbai
+463,Python Developer Intern,AI & DS,Python;OOP,Software,6.0,Remote,Bengaluru
+464,Web Developer Intern,ECE,HTML;CSS;JavaScript,Web,6.5,Hybrid,Hyderabad
+465,Java Developer Intern,Computer,Java;OOP,Software,7.0,Onsite,Chennai
+466,Cyber Security Intern,IT,Linux;Networking,Security,7.5,Remote,Delhi
+467,Cloud Intern,Electronics,AWS;Linux,Cloud,8.0,Hybrid,Noida
+468,Android Developer Intern,Mechanical,Java;Kotlin,Mobile,8.5,Onsite,Ahmedabad
+469,UI/UX Intern,Civil,Figma;Canva,Design,9.0,Remote,Kolkata
+470,Business Analyst Intern,Electrical,Excel;SQL;Power BI,Analytics,6.0,Hybrid,Nagpur
+471,AI Intern,AI & DS,Python;Machine Learning;Pandas,AI,6.5,Onsite,Pune
+472,Data Analyst Intern,ECE,Python;SQL;Excel,Analytics,7.0,Remote,Mumbai
+473,Python Developer Intern,Computer,Python;OOP,Software,7.5,Hybrid,Bengaluru
+474,Web Developer Intern,IT,HTML;CSS;JavaScript,Web,8.0,Onsite,Hyderabad
+475,Java Developer Intern,Electronics,Java;OOP,Software,8.5,Remote,Chennai
+476,Cyber Security Intern,Mechanical,Linux;Networking,Security,9.0,Hybrid,Delhi
+477,Cloud Intern,Civil,AWS;Linux,Cloud,6.0,Onsite,Noida
+478,Android Developer Intern,Electrical,Java;Kotlin,Mobile,6.5,Remote,Ahmedabad
+479,UI/UX Intern,AI & DS,Figma;Canva,Design,7.0,Hybrid,Kolkata
+480,Business Analyst Intern,ECE,Excel;SQL;Power BI,Analytics,7.5,Onsite,Nagpur
+481,AI Intern,Computer,Python;Machine Learning;Pandas,AI,8.0,Remote,Pune
+482,Data Analyst Intern,IT,Python;SQL;Excel,Analytics,8.5,Hybrid,Mumbai
+483,Python Developer Intern,Electronics,Python;OOP,Software,9.0,Onsite,Bengaluru
+484,Web Developer Intern,Mechanical,HTML;CSS;JavaScript,Web,6.0,Remote,Hyderabad
+485,Java Developer Intern,Civil,Java;OOP,Software,6.5,Hybrid,Chennai
+486,Cyber Security Intern,Electrical,Linux;Networking,Security,7.0,Onsite,Delhi
+487,Cloud Intern,AI & DS,AWS;Linux,Cloud,7.5,Remote,Noida
+488,Android Developer Intern,ECE,Java;Kotlin,Mobile,8.0,Hybrid,Ahmedabad
+489,UI/UX Intern,Computer,Figma;Canva,Design,8.5,Onsite,Kolkata
+490,Business Analyst Intern,IT,Excel;SQL;Power BI,Analytics,9.0,Remote,Nagpur
+491,AI Intern,Electronics,Python;Machine Learning;Pandas,AI,6.0,Hybrid,Pune
+492,Data Analyst Intern,Mechanical,Python;SQL;Excel,Analytics,6.5,Onsite,Mumbai
+493,Python Developer Intern,Civil,Python;OOP,Software,7.0,Remote,Bengaluru
+494,Web Developer Intern,Electrical,HTML;CSS;JavaScript,Web,7.5,Hybrid,Hyderabad
+495,Java Developer Intern,AI & DS,Java;OOP,Software,8.0,Onsite,Chennai
+496,Cyber Security Intern,ECE,Linux;Networking,Security,8.5,Remote,Delhi
+497,Cloud Intern,Computer,AWS;Linux,Cloud,9.0,Hybrid,Noida
+498,Android Developer Intern,IT,Java;Kotlin,Mobile,6.0,Onsite,Ahmedabad
+499,UI/UX Intern,Electronics,Figma;Canva,Design,6.5,Remote,Kolkata
+500,Business Analyst Intern,Mechanical,Excel;SQL;Power BI,Analytics,7.0,Hybrid,Nagpur
